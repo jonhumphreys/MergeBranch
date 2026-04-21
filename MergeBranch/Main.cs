@@ -8,7 +8,7 @@ class Program
         
         //animals.Add(new Cassowary());
         //animals.Add(new BulletAnt());
-        //animals.Add(new Chimpanzee());
+        animals.Add(new Chimpanzee());
         //animals.Add(new BlueRingedOctopus());
         
         foreach (Animal animal in animals)
